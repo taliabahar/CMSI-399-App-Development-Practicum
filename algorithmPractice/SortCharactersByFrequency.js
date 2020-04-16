@@ -13,4 +13,4 @@ function frequencySort(s) {
     return result;
 };
 
-I referenced this solution to help me with the end of the algorithm: https://leetcode.com/problems/sort-characters-by-frequency/discuss/93446/JavaScript-Solution
+//I referenced this solution to help me with the end of the algorithm: https://leetcode.com/problems/sort-characters-by-frequency/discuss/93446/JavaScript-Solution
