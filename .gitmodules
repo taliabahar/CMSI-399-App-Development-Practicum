@@ -1,0 +1,6 @@
+[submodule "projects/Should-I-Stay-or-Should-I-Go"]
+	path = projects/Should-I-Stay-or-Should-I-Go
+	url = https://github.com/taliabahar/Should-I-Stay-or-Should-I-Go.git
+[submodule "projects/Pet-Match"]
+	path = projects/Pet-Match
+	url = https://github.com/taliabahar/pet-match
